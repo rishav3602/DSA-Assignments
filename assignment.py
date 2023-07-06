@@ -780,8 +780,6 @@ def find_first_missing_positive(lst):
             return i + 1
     return n + 1
 
-# Example usage
-numbers = [
 
 
 
